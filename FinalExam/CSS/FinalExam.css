@@ -108,7 +108,7 @@ a:hover .link {
     width: 84%;
     /* border: solid 1px black; */
     /* padding-left: 20px; */
-    /* background-image: url(../Pic/Miro\ -\ Copy.jpg); */
+    /* background-image: url(../Pic/Miro - Copy.jpg); */
 }
 
 .sub-content {
@@ -118,7 +118,7 @@ a:hover .link {
 }
 
 .hello-wrap {
-    background-image: url(../Pic/Miro\ -\ Copy.jpg);
+    background-image: url(../Pic/Miro - Copy.jpg);
 }
 
 .hello {
@@ -140,7 +140,7 @@ a:hover .link {
 /* ===========about============ */
 
 .about-wrap {
-    background-image: url(../Pic/Hoàng Thành.png);
+    background-image: url(../Pic/Hoàng Thành.PNG);
 }
 
 .about {
@@ -242,7 +242,7 @@ li {
 }
 /* ============kinh nghiem================= */
 .experience-wrap {
-    background-image: url(../Pic/ngồi\ cuối\ ngày.jpg);
+    background-image: url(../Pic/ngồi cuối ngày.jpg);
     display: flex;
     flex-direction: column;
     position: relative;
